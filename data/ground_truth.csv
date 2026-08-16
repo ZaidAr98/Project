@@ -1,0 +1,301 @@
+question,story_id,comment_id
+what should i use to learn the basics of making websites,48709796,48711019
+are there good static site generators for beginners,48709796,48711019
+which static site generator should i try if i want to learn how websites work,48709796,48711019
+should i choose cambridge or amazon if i have both offers,48896372,48910142
+is it worth skipping a cambridge masters to work at amazon,48896372,48910142
+cambridge degree vs amazon job which is better for long term career,48896372,48910142
+why do teams need different roles instead of everyone doing the same work,48475871,48476505
+can a company work well if everyone is just full stack,48475871,48476505
+why do successful companies usually have a mix of different kinds of employees,48475871,48476505
+can ai figure out what's wrong with a fire alarm from a photo,48406174,48426560
+can chatgpt help match a wood floor stain from a picture,48406174,48426560
+can voice mode in an ai app start talking back on its own,48406174,48426560
+how do i clean up my linkedin feed so it stops showing ai hype,48765450,48782404
+is it worth unfollowing people who only post crypto or ai content on linkedin,48765450,48782404
+what should i do instead of scrolling social media when i open it too much,48765450,48782404
+are llms good for scientific data analysis with domain specific inputs,48406174,48418297
+can ai understand niche scientific problems or does it just guess,48406174,48418297
+is it safe to use chatgpt for business decisions from scientific data,48406174,48418297
+should i keep improving my app or start trying to get users first,48406829,48432721
+is it a mistake to build the product before figuring out who wants it,48406829,48432721
+how do i know if i need to stop coding and focus on finding customers,48406829,48432721
+is there a way to track garmin stats with a 5 day moving average instead of daily step goals,48449187,48459090
+can i make a step goal that lets me miss today if i make it up over the next few days,48449187,48459090
+how can i use weather forecasts to adjust my workout or step target automatically,48449187,48459090
+why do i feel less motivated to learn low level programming when ai can do it faster,49088197,49097917
+what careers are better if i want to build real physical things instead of software,49088197,49097917
+is it common to lose interest in pentesting or assembly because ai can do the work so fast,49088197,49097917
+how can i stop low karma users from spamming,49082821,49082914
+what rules could reduce abuse from new accounts,49082821,49082914
+how do you limit comments and posts for users under a karma threshold,49082821,49082914
+why would a scientist who codes want to go back to a domain job instead of pure software,49006088,49007468
+is it better to have one person who knows the field and can code than a whole dev team,49006088,49007468
+why do some developers feel disconnected from the real value of the work they build,49006088,49007468
+can using claude make open source work get rejected by other devs,48886741,48887269
+why would people call my code ai generated trash if i used ai help,48886741,48887269
+has anyone been bullied for submitting patches with chatgpt or claude help,48886741,48887269
+do moderators actually read the comments or just look at reports and emails,48886741,48888885
+can i email mods if a good comment got auto removed by mistake,48886741,48888885
+is it ok to criticize comments i agree with so people make a stronger case,48886741,48888885
+should people be judged for their nationality if they didnt choose it,48673801,48675839
+is it fair to blame russian citizens abroad for what their government does,48673801,48675839
+can a country like estonia do anything about rules that treat russians differently,48673801,48675839
+what should i do if i think a post breaks the rules on a site like hn,48886741,48888364
+why do some people say a site's rule link is used inconsistently,48886741,48888364
+why do people complain that tech news sites are getting more like reddit,48886741,48888364
+why was diy repair more common in the past than it is now,48406174,48423134
+what changed that made manufacturers stop letting people open and fix their own devices,48406174,48423134
+why was strong encryption not really available in the 90s,48406174,48423134
+why do people assume ai writing is bad when it spreads so easily,48886741,48887712
+how can disliking ai text actually be a sign of low effort posts,48886741,48887712
+why do humans think they can tell ai writing from real writing when they usually cant,48886741,48887712
+why does every good engineering team need someone who understands the lower level details,48662310,48663976
+what skill makes one developer the go to person when something weird breaks in a team,48662310,48663976
+how do you become the person on the team who can dig into debugger traces and library code when others cant,48662310,48663976
+how can you tell if a post was written by ai or just by a teenager,48403614,48407161
+why would someone write in a really formal style online,48403614,48407161
+can genuine writing be mistaken for ai text,48403614,48407161
+what is do nothing meditation and how do you do it,48492118,48493625
+which meditation teachers teach non meditation or do nothing practice,48492118,48493625
+is there a simple meditation method where you just sit and not try to do anything,48492118,48493625
+what does a tier 2 sre do at a big company,48711261,48712266
+how are ops center sre and product engineers different,48711261,48712266
+what kind of work does an sre handle when an alert pages,48711261,48712266
+how do i know when to stop trying to make money from side projects and just get a job,49118082,49123275
+is it normal to spend years on online businesses and make almost nothing,49118082,49123275
+should i build apps for income or just make stuff i want to use myself,49118082,49123275
+how can i build a home assistant helper that watches my house and alerts me about bad devices and broken automations,48449187,48459754
+any examples of using home assistant mcp with an llm to monitor sensors and suggest automations,48449187,48459754
+why does an llm have trouble using home assistant mcp correctly and how can i make it work better,48449187,48459754
+do bands actually choose ticket prices on ticketmaster,48448313,48476488
+why do concert prices get so high if ticketmaster is the one people blame,48448313,48476488
+how much control do artists have over vip tickets and dynamic pricing,48448313,48476488
+why does using ai chat sometimes feel more confusing than waiting for code to build,48568372,48568566
+is prompting going to get as fast as searching the web,48568372,48568566
+will ai tools make programmers obsolete once typing prompts gets quick enough,48568372,48568566
+why do people say rust catches bugs before runtime,48922717,48923799
+how does rust help prevent race conditions and other errors,48922717,48923799
+could ai compilers become stricter than rust in the future,48922717,48923799
+when did you first realize ai spam was getting good enough to fool you,48406174,48422866
+has anyone gotten a sales email that replied instantly like a person and what was it,48406174,48422866
+how early did people start seeing ai-written outreach emails before chatgpt came out,48406174,48422866
+is ai progress still speeding up or is it slowing down,49111613,49127579
+how fast has ai improved in voice and image recognition over the last 20 years,49111613,49127579
+why do some people think asi is coming soon and that ai risks are hard to predict,49111613,49127579
+what should i check before starting a small side business online,48625774,48626898
+why do some small income ideas not make sense in my country,48625774,48626898
+what local rules and taxes can make a profitable side gig not worth it,48625774,48626898
+how can i use neovim to review ai code output in the terminal,48859439,48867409
+what setup helps me stay on keyboard while reading claude output,48859439,48867409
+how do i keep manually coding when using ai coding assistants,48859439,48867409
+is a local coding ai setup actually good enough for real work or mostly just for hobbyists,48542100,48546231
+what gpu and model would i need to run a decent local agent for coding tasks,48542100,48546231
+can you use a local llm to run overnight browser tests and check screenshots without spending a lot,48542100,48546231
+does ai make it harder to learn programming skills,48420827,48433450
+why do some developers not like using ai tools,48420827,48433450
+is ai useful for getting work done but bad for learning how things work,48420827,48433450
+how can i get up to speed on a new codebase when my coworkers are too busy to answer a lot of questions,48406174,48421619
+can ai tools help explain a system architecture or codebase when i'm onboarding to a new team,48406174,48421619
+has anyone used cursor or claude code to investigate logs and database issues and find the cause of bugs,48406174,48421619
+is wordpress a good choice for a simple static site,48709796,48786204
+why is wordpress bad for static websites,48709796,48786204
+does wordpress need ongoing maintenance even for a basic site,48709796,48786204
+why are software developers scared of ai tools now,48420827,48422679
+why do programmers dislike non technical people making code with ai,48420827,48422679
+how is ai affecting developer jobs after covid,48420827,48422679
+is the apple vision pro actually good for working away from your desk,48465702,48467477
+can you watch sports on apple vision pro while doing other stuff,48465702,48467477
+what does apple vision pro feel like for movies and games,48465702,48467477
+which chinese chip companies are growing fast in memory and storage,48604232,48604860
+is china helping fix the chip shortage with more dram and nand supply,48604232,48604860
+what chinese memory makers are expanding factories and trying to sell more globally,48604232,48604860
+how do you decide what docs should go on a main wiki page vs tucked away somewhere else,48996526,49017061
+what's a good way to organize technical knowledge by how important it is and how often you need it,48996526,49017061
+where should you store rare but critical troubleshooting steps so people can find them fast in an emergency,48996526,49017061
+will ai replace all software developers or only some kinds of jobs,48668199,48675953
+what kind of programming jobs will still pay the most if ai gets better,48668199,48675953
+which companies will still need human engineers when ai can code most things,48668199,48675953
+why would someone choose to code by hand instead of using ai tools for a side project,48922717,48923744
+is it weird to prefer writing all the code yourself on personal projects,48922717,48923744
+should i use an llm for hobby coding if i actually enjoy writing code myself,48922717,48923744
+why is a local ai model slow on a gpu even when the gpu is fast,48694802,48695558
+will an m1 mac run newer small llms well enough for decent speed,48694802,48695558
+are smaller optimized models now good enough compared with much bigger older models,48694802,48695558
+how do i run several llm models at once and stop when the answer is good enough?,48449187,48451913
+is there a way to expose cli llm models as an openai api for other apps?,48449187,48451913
+can i make a multi model llm setup where the judge is also a group of models and add specialist roles?,48449187,48451913
+is a dell latitude 7490 good to use with linux and is it easy to upgrade,48888025,48904137
+what's a good used dell or thinkpad laptop for linux work that isn't too heavy,48888025,48904137
+is buying a second hand thinkpad x1 carbon a good idea for work and long battery life,48888025,48904137
+why do people say ip when copyright patent and trademark are different,48886741,48889646
+can my employer claim code i wrote on my own time,48886741,48889646
+is training llms on public work actually theft or just copyright misuse,48886741,48889646
+how can i keep using chatgpt if my pc wont boot and my browser chat history is on the broken machine,48406174,48453022
+why does a live usb repair tool make a linux system worse when it starts deleting system files,48406174,48453022
+can an ai helper recover a broken linux boot if it loses the earlier chat context after i switch to another computer,48406174,48453022
+why do ai answers look right but still have obvious mistakes to someone who knows the topic,48406174,48430962
+is it safe to use claude for stuff outside my field if i can't tell whats wrong,48406174,48430962
+would you trust an ai to help do emergency surgery if you dont know medicine,48406174,48430962
+how can i get my security camera feed into homekit from frigate,48449187,48479267
+is there a way to move my eufy doorbell and kasa plugs into home assistant and then show them in homekit,48449187,48479267
+what can ai help set up so i dont have to deal with all the config for home assistant and smart home devices,48449187,48479267
+why would a company ask me to bring my own laptop before i get equipment,48788887,48789547
+can i still do onboarding if my work laptop takes a week or two to arrive,48788887,48789547
+in a regulated company is it normal to use my personal laptop for non sensitive setup work,48788887,48789547
+is a2a protocol mainly for big companies or individual developers,48582679,48594938
+can i run an ai agent behind an mcp server and keep its state per session,48582679,48594938
+how could an mcp server start a separate agent when a tool call comes in,48582679,48594938
+how do i get my first users for a new app,48942096,48947980
+what videos explain getting your first customers as a founder,48942096,48947980
+where can i learn how to find the first 100 users for a startup,48942096,48947980
+how can ai help reverse engineer hardware drivers from linux firmware,48406174,48419602
+can an ai figure out how a usb device works from its linux firmware,48406174,48419602
+what can codex do to start writing a mac driver for a device with linux support,48406174,48419602
+how do i find a niche audience for a side project,49118082,49124754
+can a hobby app for a small group turn into steady income,49118082,49124754
+is it better to build for a small loyal user base than try to make something for everyone,49118082,49124754
+why do ai-made projects feel hard to talk about,48886741,48889965
+what makes ai coding demos boring to discuss,48886741,48889965
+how can someone share an ai-built app in a way people can actually discuss it,48886741,48889965
+what tools can i use so an ai coder can check its own edits for lint errors,48819876,48835240
+is there a way to hover over a ui element and copy its source info without hunting through files,48819876,48835240
+how can i make my coding agent handle line mismatches and read past sessions better,48819876,48835240
+should i choose cambridge or amazon for my career,48896372,48896511
+is a cambridge degree better than working at amazon,48896372,48896511
+does amazon look impressive compared to going to cambridge,48896372,48896511
+why does ai writing sound so fake and easy to spot,48886741,48889269
+does making ai text sound more human show you actually put in effort,48886741,48889269
+can site moderators stop ai writing from getting more obvious over time,48886741,48889269
+why do people think ai skeptics are making a good point when they just say trust me bro,48886741,48887405
+how do i respond when someone uses really fancy wording to say something obvious about ai,48886741,48887405
+what does it mean when someone says theyve given up arguing about ai because people like reading the dramatic stuff,48886741,48887405
+why do local llms forget the reasoning from earlier turns,48542100,48547922
+what is preserved thinking in qwen and when would i turn it on,48542100,48547922
+why do some ai models need to redo tool calls after a follow up prompt,48542100,48547922
+how can i use ai coding tools without getting too dependent on them,48641160,48641783
+is it better to write code myself instead of using ai all the time,48641160,48641783
+how do i keep ai assistant costs low for coding projects,48641160,48641783
+how can i run ai workloads on either a vm or local container and scale more workers when needed,48771515,48781709
+how do i set spending limits for ai tasks by dollars tokens or time at different levels,48771515,48781709
+how can i estimate llm api cost before a run and approve it manually,48771515,48781709
+can i build useful apps with ai if i dont know the language theyre written in,48449187,48458942
+has anyone made working projects in lua or python without really knowing those languages,48449187,48458942
+what are some examples of people using ai to create tools in a language they dont program in,48449187,48458942
+why would apple release vision pro at such a high price if it wont sell many,48465702,48468421
+was vision pro meant to be a test for how people and devs use it,48465702,48468421
+what cheaper versions of vision pro might apple make later,48465702,48468421
+what app lets me use local llms with pdfs and office files like cursor,48542100,48552812
+how can i connect ollama or lm studio to a desktop app for document work,48542100,48552812
+is there a tool for knowledge work that uses offline ai models and needs a good pc,48542100,48552812
+why do some job training sites feel shady to people looking for work,48506850,48507188
+is it wrong to sell career help to people who are worried about losing their jobs,48506850,48507188
+why do people call some ai career tools scams for unemployed people,48506850,48507188
+how long do ai hype cycles usually last compared with crypto,48834961,48835575
+why do new tech trends seem to come faster and faster now,48834961,48835575
+is ai just the next overhyped thing after crypto,48834961,48835575
+is ai the same thing as neural networks,48420827,48421571
+why do people say ai is older than machine learning,48420827,48421571
+did early ai researchers dislike neural nets,48420827,48421571
+has ai helped people catch up on overdue work and start bigger projects at your company,48567958,48575934
+do people actually lose jobs to ai or is it more like having an assistant for routine tasks,48567958,48575934
+what are the real effects of ai at work if a team only uses it a little,48567958,48575934
+how do you use ai to write small api scripts without doing the whole thing at once,48542100,48546262
+should i break ai coding tasks into one function at a time for better results,48542100,48546262
+has anyone had success using a local model just for implementing predesigned functions,48542100,48546262
+can ai coding tools really finish a formatter without a lot of babysitting,48406174,48425719
+how did someone use claude code to help build a postgres language server formatter,48406174,48425719
+what kind of coding task is good to run overnight with an ai agent and then clean up later,48406174,48425719
+how do llms keep reasoning instead of switching to the final answer too soon,48434240,48501524
+can decoding settings make a model think longer before answering,48434240,48501524
+what is the channel token trick for forcing an ai to keep reasoning,48434240,48501524
+how do i turn happy customers into more sales,48918150,48920094
+does affiliate marketing actually help grow a product business,48918150,48920094
+what are some concrete examples of word of mouth marketing working,48918150,48920094
+does using claude actually make you more productive or just feel faster,48542100,48558506
+can ai coding assistants help you work on multiple projects at once,48542100,48558506
+is the extra mess from ai generated code worth the speed gains,48542100,48558506
+why is chip design so hard and expensive to do by hand,48668199,48747254
+will software eventually get too complex for humans to understand,48668199,48747254
+is ai software development following something like moore's law,48668199,48747254
+can i use a local llm instead of github copilot on a 12gb gpu,48542100,48551246
+what model and setup works for agentic coding on a low vram pc,48542100,48551246
+what coding tool lets you build custom workflows and still run fast on small hardware,48542100,48551246
+how is ai actually useful for software development beyond demos and toy projects,48449187,48462040
+why do people say ai helps with custom tools for specific internal problems,48449187,48462040
+do ai coding tools still need deterministic standard tools to be really valuable,48449187,48462040
+can ai help turn a proof of concept into a working exploit for the default settings,48406174,48418364
+why would a vuln proof of concept fail until certain security settings are changed,48406174,48418364
+how do teams decide to responsibly report a crash bug they found with ai help,48406174,48418364
+how can i let non harmful bots access my site but block bad traffic,49054859,49056136
+what setup can help stop abusive requests without blocking all crawlers,49054859,49056136
+how do you protect a website from bot traffic using rate limits and bans,49054859,49056136
+are local llms anywhere near opus or gpt 5.5,48542100,48545296
+is there any open source model i can run on my pc that competes with top paid models,48542100,48545296
+if i dont want to pay for codex what are my options for better ai coding models,48542100,48545296
+are ai coding tools actually useful or just fancy autocomplete,48406174,48419396
+why do people say ai agents aren't trustworthy for work tasks,48406174,48419396
+what do you think about companies building data centers by suing local towns,48406174,48419396
+what safeguards can you use when shipping ai generated code,48571124,48580135
+how do teams reduce risk when using llms to write code,48571124,48580135
+what kind of controls help if an ai makes changes in a codebase,48571124,48580135
+why are software engineers often in favor of immigration,49021689,49023827
+do tech workers think immigrants are good for the economy and jobs,49021689,49023827
+why would a programmer support more h1b workers even if it could affect salaries,49021689,49023827
+is ai really going to make some people unable to write,48886741,48903927
+what is the point of the term writes and write-nots,48886741,48903927
+why do some people think ai will change writing skills when kids already struggle to write,48886741,48903927
+what mac apps can i use instead of homebrew and the default apple stuff,48643848,48645694
+best mac apps for video download editing playback and encoding,48643848,48645694
+how do i reduce apple background network calls on my mac and what apps should i use,48643848,48645694
+why are some companies okay using copied code in ai projects without crediting the original source,48406174,48426127
+what made you distrust ai proposals from managers so much,48406174,48426127
+have developers started behaving more unprofessionally because of ai,48406174,48426127
+how can i help improve ai-generated code quality in an open source project,48886741,48893409
+what are practical ways to review or verify ai-written code,48886741,48893409
+should i judge an argument by its logic instead of guessing whether the writer understands the topic,48886741,48893409
+can ai help with fixing bugs from logs,48857085,48860073
+how useful is ai for writing new code in an existing codebase,48857085,48860073
+what is it like using ai as a coding assistant for bug fixes and code changes,48857085,48860073
+what kinds of companies are still using really old software or systems and need help modernizing,48697527,48697850
+where can i find jobs at small businesses that are behind on tech and still using outdated tools,48697527,48697850
+are there businesses that would be impressed by pretty old software skills instead of latest tech,48697527,48697850
+how can i use an llm to review a code change from different angles,48771515,48780665
+how do i make ai help me find security and design issues in my code before i ship it,48771515,48780665
+what's a good way to use chatgpt to write code iteratively without making a huge pr,48771515,48780665
+will clients start expecting faster feature delivery if i've already shipped some things quickly with ai tools,48406174,48419259
+why does ai coding feel easy for some tasks but not others yet,48406174,48419259
+will developer work go back to normal after the current ai boost in productivity,48406174,48419259
+how can i get ai to write code with explanations too,48771515,48782072
+is there a way to make an ai keep the design notes with the code it writes,48771515,48782072
+how do i set up a project so ai uses a literate style when generating code,48771515,48782072
+what are the downsides of working from home for software engineers?,48573153,48588052
+why do remote workers need friends or hobbies outside of work?,48573153,48588052
+does working from home make it easier to get out of shape or feel lonely?,48573153,48588052
+why do 1 on 1 meetings matter more when a company gets bigger,48475871,48480580
+why is it easy for founders to keep track of everyone in a tiny startup but not in a larger one,48475871,48480580
+how does team size affect communication and relationships in a startup,48475871,48480580
+how do teams keep ai-generated code consistent with their coding standards,48668199,48705465
+will code reviews get lighter as ai coding tools get better,48668199,48705465
+what happens to developer jobs if ai can write code that matches the team style,48668199,48705465
+is ai writing actually common on hn or just a few examples,48886741,48887722
+do people on hn really overreact to ai text because they think it means low effort,48886741,48887722
+are humans actually good at spotting ai writing or do they mostly guess wrong,48886741,48887722
+when is it ok to use ai for coding,48542100,48549899
+should i trust ai to make design choices in code,48542100,48549899
+is it safer to use ai for throwaway code than long term code,48542100,48549899
+can a laptop run ai models that are as good as claude opus,48542100,48545890
+is qwen 3.6 35b-a3b as good as claude 4 opus,48542100,48545890
+are local llms now close to the cloud models people used for coding,48542100,48545890
+how would an ai agent work if it ran in the background and only asked me for input when needed,48771515,48772025
+is chat ui just a temporary way to use ai agents,48771515,48772025
+why would running an agent more often reduce how much human help it needs,48771515,48772025
+is private uncensored money transfer a bad idea,48420827,48441090
+should we support tools that only help break the law,48420827,48441090
+why is encrypted communication ok but anonymous money transfer not ok,48420827,48441090
+can a website be liable for user posts,48707536,48707963
+what is a platform's responsibility when users upload illegal content,48707536,48707963
+do sites have to remove illegal user content after being told about it,48707536,48707963
+how do i build better relationships with remote employees without being awkward,48475871,48487776
+should managers chat casually with remote team members or keep it all work,48475871,48487776
+how do you manage a team where some people want small talk and others just want to get to the point,48475871,48487776

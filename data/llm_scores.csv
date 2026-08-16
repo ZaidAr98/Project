@@ -1,0 +1,52 @@
+question,variant,groundedness,coverage,relevance
+I have 15 years of experience and can't get interviews — what do people suggest?,terse,4,4,5
+I have 15 years of experience and can't get interviews — what do people suggest?,cot,5,5,5
+I have 15 years of experience and can't get interviews — what do people suggest?,citation,4,4,4
+Is it worth leaving a stable job to join a startup?,terse,5,5,5
+Is it worth leaving a stable job to join a startup?,cot,4,5,5
+Is it worth leaving a stable job to join a startup?,citation,5,4,5
+Do people regret moving into management instead of staying technical?,terse,4,1,1
+Do people regret moving into management instead of staying technical?,cot,3,2,2
+Do people regret moving into management instead of staying technical?,citation,4,4,4
+How do developers deal with burnout?,terse,2,3,4
+How do developers deal with burnout?,cot,5,3,3
+How do developers deal with burnout?,citation,4,3,3
+Is remote work better or worse for a junior developer?,terse,2,3,5
+Is remote work better or worse for a junior developer?,cot,4,4,5
+Is remote work better or worse for a junior developer?,citation,4,4,5
+Are coding interviews a fair way to hire people?,terse,5,1,1
+Are coding interviews a fair way to hire people?,cot,2,1,1
+Are coding interviews a fair way to hire people?,citation,4,2,1
+Is a computer science degree still worth it?,terse,4,4,5
+Is a computer science degree still worth it?,cot,5,5,5
+Is a computer science degree still worth it?,citation,4,5,5
+Is it better to job hop or stay at one company for years?,terse,5,4,5
+Is it better to job hop or stay at one company for years?,cot,4,5,3
+Is it better to job hop or stay at one company for years?,citation,2,3,4
+Do experienced developers think AI coding tools actually help?,terse,5,4,5
+Do experienced developers think AI coding tools actually help?,cot,5,5,5
+Do experienced developers think AI coding tools actually help?,citation,2,3,4
+Is it still worth learning to write code by hand?,terse,4,4,5
+Is it still worth learning to write code by hand?,cot,4,4,5
+Is it still worth learning to write code by hand?,citation,4,4,5
+Will AI replace junior developers?,terse,2,4,5
+Will AI replace junior developers?,cot,4,5,5
+Will AI replace junior developers?,citation,2,3,4
+Do people trust AI-generated code in production?,terse,5,4,5
+Do people trust AI-generated code in production?,cot,4,4,5
+Do people trust AI-generated code in production?,citation,5,4,5
+Has AI made hiring and interviewing worse?,terse,2,4,5
+Has AI made hiring and interviewing worse?,cot,4,5,5
+Has AI made hiring and interviewing worse?,citation,4,5,5
+Is self-hosting your own services worth the effort?,terse,4,4,5
+Is self-hosting your own services worth the effort?,cot,4,5,5
+Is self-hosting your own services worth the effort?,citation,2,2,3
+What do people think about microservices these days?,terse,2,2,1
+What do people think about microservices these days?,cot,4,3,1
+What do people think about microservices these days?,citation,3,2,2
+Which editor or IDE do developers actually prefer?,terse,4,4,4
+Which editor or IDE do developers actually prefer?,cot,5,5,5
+Which editor or IDE do developers actually prefer?,citation,4,4,4
+"Is Postgres enough, or do you need a separate search engine?",terse,1,1,1
+"Is Postgres enough, or do you need a separate search engine?",cot,3,3,2
+"Is Postgres enough, or do you need a separate search engine?",citation,4,2,2

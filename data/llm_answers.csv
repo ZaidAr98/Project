@@ -1,0 +1,379 @@
+question,variant,answer,n_chunks,n_cited,invalid_citations,input_tokens,output_tokens,cost_usd,latency_ms
+I have 15 years of experience and can't get interviews — what do people suggest?,terse,"People suggest leaning on stability, maturity, responsibility, and other non-technical strengths when interviewing. One commenter says hiring managers may value business knowledge, communication, and presentation skills more than pure technical depth for many roles, and recommends studying accounting/business management. Others say the market is rough: applications often get no response, get filtered into assessments/tests, or face AI-driven interviews and even condescending treatment about AI tools. One person says they left knowledge work after 15 years and picked up a trade, while another says they switched jobs successfully through recruiter interest and referrals but got almost no response from outbound applications.",8,0,,1645,124,0.000000,2564
+I have 15 years of experience and can't get interviews — what do people suggest?,cot,"## Positions:
+1. **Experience alone may not help if recruiters/employers are getting fewer signals or outreach is weaker; even senior people can see little response.** [1]
+2. **The job market feels worse: applications often go unanswered, get filtered into tests/AI screening, or never reach a human.** [2]
+3. **In some interviews, AI/Cursor hype can be used to dismiss experienced candidates, even when they have many years in the field.** [3]
+4. **Broaden your preparation beyond pure technical skill: business knowledge, communication, and presentation skills can matter a lot in interviews.** [4]
+5. **If knowledge-work opportunities are drying up after long careers, one suggestion is to pivot into a trade or other non-knowledge-work path.** [5, 7]
+6. **For getting initial customer/interview-style conversations, use targeted outreach on LinkedIn, relevant online communities, or in-person events, and focus on researching people’s problems rather than pitching.** [6]
+7. **Employers may value stability and maturity; if relevant, emphasize responsibility, long-term commitment, and a steady work style in interviews.** [8]
+
+## Summary:
+People in the comments suggest a mix of external and personal strategies. Several say the market itself seems harsher now: even experienced candidates may get little recruiter interest, many applications may disappear into automated tests or AI screens, and some interviewers may use AI-related expectations in ways that disadvantage seasoned people. Others recommend adapting by broadening your appeal: strengthen business, communication, and presentation skills, and in interviews emphasize maturity, responsibility, and stability rather than just technical depth.
+
+A few comments go further and suggest changing direction entirely if long-established knowledge work is becoming less satisfying or less available, such as moving into a trade or other different line of work. One comment also offers a more outreach-oriented tactic: find the right people on LinkedIn, in niche communities, or at events, talk to them about their problems, and use that kind of relationship-building approach rather than a hard pitch.",8,5,,1679,428,0.000000,3868
+I have 15 years of experience and can't get interviews — what do people suggest?,citation,"People in the comments mostly suggested that having a lot of experience is not, by itself, enough to get interviews anymore, and that you may need to change how you present yourself or where you apply. But the comments are limited, so this is more a set of anecdotes and suggestions than a clear consensus. [1][2][3][8]
+
+A few comments said the market can still be active for experienced people, but that responses may be very uneven. One person with roughly 15–20 years’ experience said they still got “usual recruiter interest” from a well-known large company, and after a short process moved to a similar-level role with a salary bump, while outbound applications to other major companies got almost no response. They also said recruiter outreach dropped after changing employers, even though the move was not public. [1]
+
+Others described much worse response rates and fewer human conversations. One commenter with about 3 years’ experience said their application response rate fell from about 35% to 18%, and that they “rarely even get to talk to a human,” instead getting tests or no response. [2] Another person with 13 years of software engineering experience described being talked down to by an AI startup and then told they lacked experience for the role. [3]
+
+On what to do, the most direct advice was to lean into stability, maturity, and business-facing skills rather than only technical depth. One hiring manager said employers outside top tech companies often care more about presentation skills and grasp of business concepts, and suggested taking classes in accounting/business management and learning to write and speak well. [4] Another commenter said to “lean into” words like maturity, responsibility, and stability when interviewing, because employers value those traits. [8]
+
+One practical suggestion for getting interview conversations was to use LinkedIn or other places where your target users/employers hang out, and ask for time to discuss their workflow and problems rather than pitching yourself or a product directly. That comment was about SaaS customer interviews, not job hunting, but the tactic was to talk to the right people where they already are. [6]
+
+There was also a more pessimistic thread suggesting some long-tenured knowledge workers are leaving dev roles altogether because AI is reducing the sense of achievement in their work. One person said they left after 15 years in knowledge work and dev roles for that reason, and another said they were leaving a 15-year job because AI output was as good as or better than their own thinking. [5][7]
+
+So, roughly speaking, the comments split between:
+- “Try different positioning: emphasize stability, maturity, communication, and business understanding” [4][8]
+- “The market is rough; even experienced people are seeing very low response rates and few human interviews” [1][2][3]
+- “Some people are changing careers or leaving dev work entirely” [5][7]
+
+If you want, I can turn these comments into a short, actionable checklist, still using only the forum comments.",8,6,,1670,614,0.000000,5219
+Is it worth leaving a stable job to join a startup?,terse,"No: the comments mostly say not to leave a stable job for a startup unless you want the adventure and can accept the risk.  
+Several commenters say startups usually fail, so you should keep your current job and only switch if you have something else lined up.  
+A few say the main reasons to join are learning, excitement, and potential upside, but not money or job security.",8,0,,1755,80,0.000000,1375
+Is it worth leaving a stable job to join a startup?,cot,"## Positions:
+1. **Usually not worth it because startups are risky and often fail; keep a stable job unless you already have another option.** [1, 6]
+2. **A startup can be worth it if you want the adventure, learning, excitement, and are okay with trading away stability and security.** [3, 4]
+3. **Don’t join for the money; the possible upside is uncertain and may never show up.** [3, 4, 6]
+4. **If you prefer stability, stress-free pay, and a predictable environment, a more established company is the better choice.** [1, 2, 4]
+5. **If a startup is already contracting or looks shaky, the advice is to leave and start interviewing elsewhere.** [1, 6]
+
+## Summary:
+The comments mostly suggest that leaving a stable job for a startup is only worth it if you actively want the startup experience itself: the adventure, pressure, learning, and chance to build something exciting. But several commenters warn that this comes with real tradeoffs, because startups often fail and the financial upside may never materialize. A few say not to do it for the money, since the risk is too high and the payoff too uncertain.
+
+Others emphasize the opposite side: if you value stability, lower stress, and a predictable paycheck, a stable or more established company is the safer and better fit. One commenter even says that if a startup is already contracting, that’s a strong signal to leave and look for another job, preferably before things get worse.",8,0,,1789,325,0.000000,3074
+Is it worth leaving a stable job to join a startup?,citation,"The comments mostly argue that leaving a stable job for a startup is only “worth it” if you want the upside and can tolerate the risk; several say not to do it just for money or security. [3][4][6]
+
+- One view is that startups are inherently unstable: most fail, so you should expect uncertainty and not leave a stable job unless you have another option or are specifically looking for a more stable company instead. [1][4][6]
+- Another view is that the main reasons to join a startup are non-financial: learning, adventure, meeting people, and the experience itself, not immediate compensation or job security. [3][4]
+- A few comments are strongly negative about staying in a startup when things are going badly, recommending that you leave or start interviewing if the startup is contracting or looks shaky. [1][6]
+- One comment says a stable paycheck, stress-free environment, and stability matter more than chasing resume-building, implying that sticking with stability can be the better choice. [2]
+
+So, based on these comments, the answer is: it can be worth it for the experience or upside, but if you value stability, several commenters say a startup is probably not the right move. [1][3][4][6]",8,3,,1780,262,0.000000,3118
+Do people regret moving into management instead of staying technical?,terse,The comments do not address whether people regret moving into management instead of staying technical.,8,0,,2038,19,0.000000,1105
+Do people regret moving into management instead of staying technical?,cot,"## Positions:
+1. Management/career growth becomes more about communication and business skills than pure technical ability, so moving into management is not necessarily something to regret. [1, 4]
+2. Poor management is common, and people can still make management work for them by setting the agenda, managing up, and using 1:1s proactively. [2]
+3. Some people regret spending too much effort on technical metrics like grades, because those efforts didn’t matter much later compared with practical experience and broader skills. [5]
+4. Many commenters are pessimistic about tech careers generally, saying companies are cutting costs, pushing AI, outsourcing, and shrinking headcount, which may make staying technical feel insecure rather than clearly preferable. [3, 7, 8]
+5. A few comments are from people who explicitly prefer staying technical or at least do not frame management as a better choice for themselves. [1]
+
+## Summary:
+The comments do not show a single clear answer, but they lean toward “it depends.” Some people argue that as you move up, communication and business understanding matter more than technical depth, so management is a different kind of value rather than a downgrade. Others say management often fails because of bad managers, though you can sometimes improve the situation by actively managing up and using one-on-ones well. There is also regret in the thread, but it is more about overinvesting in grades or narrow technical achievement than about becoming technical versus managerial per se. Separately, several comments paint a bleak picture of tech jobs overall — layoffs, AI pressure, outsourcing, and cost-cutting — which makes staying technical seem uncertain. A couple of commenters explicitly prefer remaining an IC, so at least for them, management is not the desired path.",8,2,,2072,359,0.000000,3102
+Do people regret moving into management instead of staying technical?,citation,"The comments do not directly answer whether people regret moving into management instead of staying technical. None of the numbered comments explicitly say “I moved into management and regret it” or “I do not regret it.” [1][2][3][4][5][6][7][8]
+
+What the comments do say is more indirect:
+
+- One commenter argues that as people climb the corporate ladder, communication matters more than technical skill, and they personally still want to stay an IC engineer rather than move upward. That suggests a preference for staying technical, but not regret about management specifically. [1]
+- Several comments emphasize business communication, managing up, and presentation skills as important for advancement, which implies that moving toward management or broader business responsibilities can be advantageous. [1][2][4]
+- Other comments focus on job-market pressures, cost-cutting, and a desire to leave tech or build alternatives, but they do not discuss regret about management vs. technical careers. [3][7][8]
+- One commenter regrets overinvesting in grades, not in choosing management over technical work. [5]
+
+So, based only on these comments, there isn’t enough evidence to say that people in this thread regret moving into management; the comments mostly stress the importance of communication and business skills, while one person explicitly says they want to remain an IC engineer. [1][2][4]",8,6,,2063,282,0.000000,2763
+How do developers deal with burnout?,terse,"They say to step away, recover, and reflect if you’re too burnt out, and to return later if the passion comes back. One comment adds that some are so burned out they can’t even exercise anymore and may think about quitting programming altogether, though they still love it as a hobby. Another says a break from AI and working the “old” way can help sharpen skills. They also mention people trying to push through because of competition or job pressure.",8,0,,1722,95,0.000000,1409
+How do developers deal with burnout?,cot,"## Positions:
+
+- Burnout should be addressed by stepping away, recovering, and reflecting; if possible, return later, or keep the work as a side effort while getting paid employment. [1]
+- Burnout can be so severe that it affects basic physical activity, and some people may consider quitting programming altogether, though they may still love it as a hobby. [5]
+- Developers deal with burnout by accepting that teams and products change over time; when experienced staff leave, newer developers may push changes, and the work may shift into maintenance or a new direction. [6]
+- Some developers respond to burnout and industry pressure by adapting to AI-driven changes, building AI-augmented tools, and trying to stay relevant to avoid job loss. [7]
+- Taking a break from AI and working the “old” way can help rebuild or preserve critical thinking and problem-solving skills, suggesting one burnout coping method is to balance new tools with older practices. [8]
+
+## Summary:
+
+The comments suggest a few different ways developers deal with burnout. One common response is to step back: if someone is too burnt out, they may recover, reflect, and later return, or even shift to paid work and keep their own project on the side. Another view is that burnout can become so serious that it drains physical energy and leads people to think about leaving programming, even if they still enjoy it as a hobby.
+
+Other comments describe coping more indirectly through adaptation. Some say the industry itself changes as experienced developers leave and newer teams take over, so burnout gets mixed with product turnover and maintenance work. A few commenters focus on staying employable in an AI-heavy environment by building AI-augmented tools and “getting on board” with the changes. Another perspective is that taking breaks from AI and returning to older development methods can help developers protect their skills and balance the pressure to work constantly.",8,5,,1756,380,0.000000,3404
+How do developers deal with burnout?,citation,"The comments mostly do **not** directly answer “How do developers deal with burnout?” A few people do mention coping, but most comments are about AI, the industry, or job pressure rather than burnout itself [2][3][4][6][7][8].
+
+What the comments say about dealing with burnout:
+
+- **Step away, recover, and reflect.** One commenter says that if you’re too burnt out, you may be hitting an internal limit, and if you don’t have hope or resources, you should step away, recover, and reflect; if motivation returns later, you can go back in [1].
+- **Switch to paid employment or work on the side.** The same commenter suggests getting paid employment and working on the business part-time instead of pushing through full-time while exhausted [1].
+- **Take a break from AI / return to older ways of working.** One commenter says taking a break from AI tools and working the “old” way can help sharpen skills, implying a reset or break can be useful [8].
+- **Continue in a reduced or different form.** One person who was burned out said they can’t handle physical activity and are even thinking about quitting programming, though they still hope it can remain a hobby [5].
+- **Adapt rather than stop.** Another commenter says they’re building AI-augmented tools to stay relevant and survive job cuts, which reads more like coping with stress by adapting than resting [7].
+
+There is also a split in tone:
+- **Rest / step back / reduce load:** [1], [5], [8]
+- **Push through / adapt / keep going:** [1], [7]
+
+Overall, the forum comments suggest developers deal with burnout either by **taking time off or stepping back** [1][5][8], or by **changing how they work to keep up** [7], but they do not offer a single agreed-upon solution [1][5][7][8].",8,7,,1747,404,0.000000,3171
+Is remote work better or worse for a junior developer?,terse,"Worse. Several comments say remote work hurts juniors by reducing organic communication, making them easier to lay off, and slowing learning because they miss in-person guidance and teamwork. One comment also says everyone-is-remote can make people care less and worsen the culture, though it notes remote work has its own benefits.",8,0,,1790,65,0.000000,1641
+Is remote work better or worse for a junior developer?,cot,"## Positions:
+- Remote work is worse for junior developers because they miss out on organic communication, are more likely to be laid off first, and remote setups can be disorganized. [4]
+- Remote work is worse for junior developers because it can hurt social skills and reduce the kinds of office interactions that help some people. [5]
+- Remote work is better for junior developers because it lets people avoid office commuting and can still be worthwhile despite some trade-offs. [4]
+- Remote work itself is not the main issue; the bigger problem is that junior developers already have a hard time because the market is tough and remote roles are scarce. [1]
+- Remote or mostly-remote work can be acceptable, but juniors may need more “human in the loop” guidance and close steering to do well. [7]
+- Junior developers are generally in a hard spot now, and remote work is part of a broader environment that makes tech work less appealing or more difficult for them. [3][8]
+
+## Summary:
+The comments don’t give one clear verdict, but several people lean toward remote work being harder for junior developers. The strongest reasons given are that juniors can miss organic office communication, be more likely to get laid off first, and lose some social development from in-person work. Others add that remote or heavily remote work can still work if there is frequent check-in and guidance, especially for someone who needs more hands-on steering.
+
+A different angle is that remote work may not be the core problem at all: one commenter says the job market is already tough and remote junior roles seem scarce, so the difficulty may come more from the market than from remote work itself. Another view is that remote work can still be better in some ways because it avoids commuting and can be a net positive despite its downsides. Finally, a couple of comments frame this as part of a broader hard time for juniors in tech, regardless of remote status.",8,5,,1824,392,0.000000,3524
+Is remote work better or worse for a junior developer?,citation,"The comments mostly suggest that remote work is **harder for junior developers**, though a few note general upsides of remote work for everyone. The main concern is that juniors miss out on organic communication, learning, and guidance when they’re remote [4], and that remote work can reduce social skills over time [5]. One commenter specifically says they “can’t imagine what junior people are passing through” in a market where most roles are in-office or hybrid, implying remote-only juniors may have a tougher job search [1].
+
+There are also comments that connect remote work with weaker collaboration or isolation: one says remote teams can suffer from disorganization and missed opportunities to stay in sync [4], and another says being on remote teams has made them avoid tech work partly because “the everyone-is-remote business” hurts their mental health [3].
+
+That said, not everyone frames remote work negatively. One comment says the best thing about full remote is still the freedom and pay of not driving to an office [4]. But none of the comments argue that remote work is clearly better specifically for junior developers; the dominant view is that it can be more difficult for them, especially for learning and visibility [1][4][5][8].",8,4,,1815,249,0.000000,2738
+Are coding interviews a fair way to hire people?,terse,The comments do not address whether coding interviews are a fair way to hire people.,8,0,,1927,19,0.000000,1166
+Are coding interviews a fair way to hire people?,cot,"## Positions:
+
+1. **Coding interviews are not mentioned as a hiring standard; people should be judged more on broader practical skills like business knowledge and communication.** [1]
+2. **The hiring market is rough and messy right now, with low-quality or even shady offers, so hiring practices may feel less reliable overall.** [2]
+3. **Developers who can solve problems without AI will be in demand, because many AI-heavy candidates may lack basic coding ability.** [3]
+4. **Coding/AI tools fit routine work and help people move faster, but they also create anxiety, tradeoffs, and risk.** [4]
+5. **Relying on coding agents is risky; serious or mission-critical work needs direct human understanding, and interviews may eventually exclude AI use.** [5]
+6. **Vibe-coded or AI-generated work can be a black box with poor maintainability and no clear accountability, so companies may prefer experienced humans or established teams.** [6]
+7. **AI/vibe coding may become widespread, but it is still viewed by some as incomplete or overhyped, especially for serious engineering and security.** [7]
+8. **Some experienced developers think AI-generated code still falls short of high standards, and that careful human coding remains important.** [8]
+
+## Summary:
+
+The comments do not give a single direct yes-or-no answer about whether coding interviews are fair. Several people imply that hiring should not rely only on coding ability: one commenter says employers often need broader business and communication skills, not just technical skills [1]. Others suggest the current job market is messy and filled with low-quality or shady opportunities, which makes hiring feel harder and less dependable overall [2]. A few comments argue that people who can code without AI will become especially valuable, because AI-heavy candidates may not truly understand the basics [3], while another group says AI tools can help with routine work but also introduce anxiety and risk [4]. Some commenters are more skeptical of AI dependence, saying mission-critical work requires direct human understanding and that interviews may eventually ban AI assistance [5]. Others say AI-generated code is a black box with maintainability and accountability problems, so companies may still prefer experienced developers or established teams [6]. A broader caution appears as well: AI/vibe coding may spread widely, but some still see it as overhyped or unsuitable for serious engineering and security [7], and one commenter says AI output still does not meet their standards, so hand coding remains important [8].
+
+So, based on these comments, the overall picture is mixed: coding interviews may help screen for real technical ability, especially if AI use is a concern, but several commenters think they are not enough on their own and that fair hiring should also account for broader practical skills and real-world engineering judgment.",8,8,,1961,575,0.000000,4996
+Are coding interviews a fair way to hire people?,citation,"The comments mostly do **not directly answer** whether coding interviews are a fair way to hire people. None of them explicitly debate interview fairness in general, and several focus instead on AI, coding agents, or broader hiring-market concerns [1][2][3][4][5][6][7][8].
+
+What they *do* suggest is a split in emphasis:
+
+- Some commenters imply that **technical ability alone is not enough for many jobs**, so a coding interview may be an incomplete hiring filter. One hiring manager said many candidates from strong schools lacked basic business, writing, and speaking skills, and that non-FAANG employers may care more about those broader abilities than compiler-writing or “vibe coding” skills [1]. Another commenter said business leaders may be happy with fast “vibe coding” if it works, but that this can create anxiety and tradeoffs for developers [4].
+- Others argue that **traditional coding ability will matter even more** as AI use spreads. One commenter predicted that developers who can build without AI will be in demand, because many AI-using candidates will not know the basics or be able to solve coding problems themselves [3]. Another said they use their brain and pen and paper for serious work, and warned that companies may eventually disallow AI in interviews, meaning people over-reliant on coding agents would be “cooked” [5].
+- A few comments suggest **the hiring process can be distorted or unsafe**, but not specifically that coding interviews are unfair. One person described a tough job market, slow referrals, equity-only offers, and even malicious people trying to get them to run malware hidden in coding challenges [2]. Another emphasized that AI-generated code can create black-box and bus-factor problems for businesses, which could make employers hesitant to trust candidates who rely too much on AI [6].
+
+So, based on these comments, the closest answer is: **there is no direct consensus here about coding interviews being fair**. The thread leans toward the idea that **coding interviews may be too narrow if used alone**, but also that **they may still be useful for checking whether someone can actually code without AI assistance** [1][3][5].",8,8,,1952,445,0.000000,3958
+Is a computer science degree still worth it?,terse,"Some comments say yes, but only if you genuinely enjoy computers and building things, because the field keeps changing and rewards people who keep learning. Others say it may be less worth it now for pure job security, since software is becoming more commoditized and AI could affect CS more than other engineering paths. One commenter says a CS degree was never strictly required anyway and recommends other engineering degrees for more security, with some CS classes on the side. Another says real job experience at a big tech company is worth more than a CS master’s right now.",7,0,,1692,112,0.000000,1838
+Is a computer science degree still worth it?,cot,"## Positions:
+1. **Yes, a CS degree or CS-related path is still worth it if you genuinely like building, problem-solving, and staying current; the key is interest more than the credential itself.** [1, 3]
+2. **A CS degree is less compelling than some other engineering paths for job security, since CS may be more exposed to AI; other engineering degrees may be safer, with some CS coursework added.** [2]
+3. **A master’s or PhD may be more worthwhile long-term than stopping at a CS bachelor’s, because software may become more commoditized.** [4]
+4. **Going straight into a good job may be more worthwhile than more school right now, because experience and a brand-name job are more valuable than an incremental degree boost.** [5]
+5. **The question is mixed with broader concerns about AI’s impact on knowledge work and science, but no clear conclusion about degrees is stated.** [6]
+6. **No clear position on whether a CS degree is worth it is given; the comment is about the history of who did computing, not the degree’s value.** [7]
+
+## Summary:
+The comments do not give one unanimous answer. A couple of people say a CS degree or CS path is still worthwhile, especially for someone who actually enjoys computers, building things, and learning constantly; they frame the value as being in the skills and fit for the work rather than the diploma alone. Another commenter is more cautious and says CS may be less of a secure bet than other engineering degrees because AI could affect it more, so they would lean toward a different engineering field plus some CS classes. Two others suggest that if you want the best long-term payoff, a master’s or PhD might make more sense than just a CS bachelor’s, while someone else argues the opposite direction: if you can get a strong job now, real work experience may be worth more than further schooling. One comment raises wider worries about AI and scientific work without directly answering the degree question, and another is simply historical context about programming and gender, not a view on whether the degree is worth it.",7,4,,1726,440,0.000000,5426
+Is a computer science degree still worth it?,citation,"The comments do not give a single clear answer. Most of them suggest **yes, or at least “yes, but with caveats”**, while a smaller set argues that **other paths may be better for job security right now**. [1][2][4][5]
+
+- **Worth it if you actually enjoy the work and want to keep learning:** One comment says a CS path makes sense if you like building things, solving problems, and learning new tools, and that there will still be niches people can get paid for. [1] Another says the value is less about coding itself and more about the skills it teaches, so learning CS basics and doing projects is still useful. [3]
+- **Worth it only if you have strong interest, not just for money:** One commenter says many people went into CS mainly for pay, but the market is shifting and those who don’t really care about computers may struggle, implying passion matters more now. [1]
+- **Maybe less worth it than other degrees for job security:** One commenter argues a CS degree has never been strictly required, and that other engineering degrees may be better for security because they are less likely to be affected by AI. [2]
+- **Some think more education could be the play long-term:** One comment suggests a master’s or PhD might be better because software may become more commoditized. [4]
+- **Others think immediate work experience beats more schooling:** Another says a brand-name big tech job is more valuable right now than a master’s, because real job experience is hard to get and extra education is only incrementally useful. [5]
+
+So, based on these comments, the answer is: **often yes, but mainly if you genuinely want to do CS and can use it to build skills or get experience; if your main goal is job security or easy money, some commenters would steer you toward other options.** [1][2][3][4][5]",7,3,,1717,400,0.000000,3896
+Is it better to job hop or stay at one company for years?,terse,"They disagree. Some comments favor staying put for stability, maturity, and because employers value long-term commitment and the time it takes to onboard someone. Others suggest leaving when layoffs, trouble, or better opportunities arise, and that careers naturally change over time anyway. One comment says there’s no safe job or guaranteed lifelong role, so you should place your bets based on the situation.",8,0,,1800,78,0.000000,1659
+Is it better to job hop or stay at one company for years?,cot,"## Positions:
+
+1. **Staying longer can be a positive signal because employers value stability and calculated loyalty.** [1, 8]  
+2. **Job-hopping is often the better move when the current company is unstable, since layoffs or bad conditions make leaving preferable.** [2, 7]  
+3. **There is no guaranteed “safe” career path, so people should make pragmatic bets rather than assume any one pattern is always best.** [5]  
+4. **Long careers at one company or in one field can still make sense because experience accumulates over time and can remain useful.** [4, 7, 8]  
+5. **Switching can be wise early on or when building skills, but the comments don’t present it as universally superior.** [3, 5, 8]  
+6. **Job-hopping too much can be a trap; employers may prefer specific skill sets and stability over being a generalist.** [2]  
+
+## Summary:
+
+The comments do not give one settled answer. Several say that staying put for a while can help, because employers may read stability, maturity, and responsibility as positives, and they may prefer someone who will stay long enough to be worth the investment. Others suggest that in a bad or shrinking company, leaving is often better than staying through layoffs or worsening conditions.
+
+A few comments take a broader view: no career path is guaranteed, so people should make the best practical choice they can rather than assume job hopping or staying is always right. Some also argue that long-term careers can be valuable because experience compounds over time and can still matter even as industries change. At the same time, one comment warns that changing roles too often can become a career trap if employers want specific skills and continuity.",8,2,,1834,368,0.000000,3276
+Is it better to job hop or stay at one company for years?,citation,"The comments lean somewhat toward **not treating one company as a forever choice**, but they also emphasize **stability and staying long enough to matter**. Overall, there isn’t a clear consensus.
+
+- **Pro-stability / staying put longer:** One commenter says employers value “Stability,” that it costs a lot to add a new person, and that they’d want someone to “hang around a bit” so hiring pays off [1]. Another says being laid off and moving on can be better than being a “survivor” at a troubled company, but that does not really celebrate frequent hopping; it’s more a case for leaving when circumstances change [2]. A different commenter says a career is not a guarantee of one safe lifelong job, so you should just make bets based on the situation [5].
+- **More open to moving / job changes:** Several comments suggest changing jobs or adapting over time is normal. One says to “look for another job” if you can’t adapt to AI-driven changes [7]. Another says your career will “reinvent itself constantly” over your working life [8]. Another implies that recent graduates often underestimate employer needs like stability, but that people still leave for better pay and opportunities in a more calculated way [1].
+- **Strongly against “jack of all trades” hopping:** One commenter explicitly says “jack of all trades” is a “career trap / dead end,” and that companies hire for specific skill sets [2].
+
+So, based on these comments, the rough split is:
+- **Favor staying longer / showing stability:** about 2–3 comments [1][2][8]
+- **Favor flexibility / changing jobs or roles as needed:** about 3–4 comments [5][7][8][2]
+
+The closest thing to a shared view is: **don’t job-hop impulsively, but don’t stay just for the sake of staying either** [1][5][7][8].",8,5,,1825,400,0.000000,3126
+Do experienced developers think AI coding tools actually help?,terse,"Yes. Several comments say AI coding tools help experienced developers by speeding up implementation, acting as a force multiplier, and improving code quality or helping find better solutions. Others say they help only if used carefully, and that experienced devs should still prioritize critical thinking, planning, debugging, and shipping without unnecessary AI overhead. Some also say AI coding can feel unnatural or like working with legacy code, but still useful for those who know how to manage it.",8,0,,1903,93,0.000000,1351
+Do experienced developers think AI coding tools actually help?,cot,"## Positions:
+1. AI coding tools help experienced developers by speeding up implementation and boosting productivity, but they should not replace core thinking or problem-solving. [2, 3, 5, 7]
+2. AI coding tools are useful as an enhancement or force multiplier, helping with code quality, ideas, debugging, and finding better solutions. [6]
+3. AI coding tools can help, but they change the workflow in a way that feels less natural, more front-loaded, and more like working with legacy code. [4, 8]
+4. Experienced developers should use AI cautiously and minimally, and avoid over-investing in AI-specific processes or artifacts because the tools and practices change quickly. [1]
+
+## Summary:
+The comments mostly say that experienced developers do find AI coding tools helpful, but not as a substitute for real software skill. Several people say AI can speed up the typing and implementation part of the job, raise the floor, and let skilled developers ship faster, more reliably, and with better results than before. One view goes even further, calling AI a genuine enhancement or force multiplier that can improve code quality, surface better solutions, and act like an always-on research assistant.  
+
+At the same time, others say the help comes with tradeoffs: AI coding can feel unnatural, requires more upfront thinking, and often resembles managing legacy code or a brittle black box rather than writing fresh code in the usual iterative style. And one comment advises experienced developers not to overbuild AI-centric workflows or artifacts, since the tooling changes quickly and the main goal is still shipping working software.",8,2,,1937,324,0.000000,3071
+Do experienced developers think AI coding tools actually help?,citation,"Yes—most of the comments from experienced developers say AI coding tools do help, but usually with caveats. About 5 comments are clearly positive about AI as a productivity boost or “force multiplier” [2][5][6][7][8]. One comment says AI can help delivery but argues experienced devs should keep the process lean and avoid unnecessary AI-specific overhead, especially if they can automate without it [1]. Another says AI can enhance productivity but should not replace critical thinking or problem solving, and that a balance is needed [3]. One comment is more negative about the workflow, saying AI coding forces people to frontload thinking in a way that feels unnatural and contrary to iterative development [4].
+
+So the overall forum sentiment is mixed but mostly favorable: AI tools are often seen as helpful for speeding up implementation, spotting issues, and acting like a “sounding board,” while some experienced devs worry they can encourage bad workflow, overdependence, or unnecessary complexity [1][2][3][4][6][7][8].",8,6,,1928,214,0.000000,2354
+Is it still worth learning to write code by hand?,terse,"Yes, several commenters said it is still worth learning by hand because it helps you understand code, learn problem-solving, and handle cases where AI gets stuck. Others said pure hand coding is less important now or only useful for certain steps, since AI can speed up building and some suggested using AI for most code while learning the basics. One commenter said it may still be important for detailed specifications and verification, not necessarily deep low-level coding. Another said learning to code can still be worthwhile for fun or understanding AI output, even if the job market for juniors is harder.",8,0,,1797,116,0.000000,1741
+Is it still worth learning to write code by hand?,cot,"## Positions:
+
+1. **Yes, it is still worth learning to write code by hand, because it helps you understand code, learn, and build judgment.** — [2, 4, 5, 6, 7, 8]
+
+2. **Hand coding is still useful, but mainly as one tool among AI tools; you should use AI for speed and hand code when needed.** — [5, 6, 7, 8]
+
+3. **Learning to code by hand is less valuable for getting a job than it used to be, and the junior path is much harder now.** — [1, 3]
+
+4. **It may not be worth learning hand coding at all, because AI can generate and review code and may replace the need for devs.** — [3]
+
+5. **For some people, learning to code by hand is still worthwhile for fun or personal enjoyment, even if not for work.** — [1, 6, 7]
+
+## Summary:
+
+The comments mostly say that learning to write code by hand is still worth it, but not always for the same reasons. Several people argue that hand coding still matters because it builds understanding, problem-solving ability, and the skill to read and fix code when AI gets stuck. Others frame it as something to do alongside AI rather than instead of AI: use AI to move faster, but still write or revise code yourself when you need deeper understanding or want code you can trust.
+
+A smaller set of comments is more pessimistic about the job market. One view says junior developers face a much harder environment now, and that the old era of easy high salaries is unlikely to return. Another is even more blunt, suggesting that learning hand coding may not be worthwhile at all because their workplace is already replacing human coding with AI-generated code and AI review.
+
+A few comments also separate work from enjoyment. Even if hand coding is not seen as the most efficient professional path, some commenters still think it is worth learning for the fun of it, for personal projects, or for the satisfaction of understanding how things work.",8,1,,1831,431,0.000000,3686
+Is it still worth learning to write code by hand?,citation,"The comments mostly say **yes, it is still worth learning to write code by hand**, but often with a narrower goal than before: to understand what the code is doing, learn problem-solving, and be able to fix or verify AI-generated code [1][4][5][6][7][8].
+
+A smaller set says **manual coding is less valuable as a career skill than it used to be**, especially for juniors, because AI tools can produce code quickly and some workplaces may expect people to rely on them instead [1][3][5]. One commenter went as far as saying learning anything by hand may not be worth it anymore in their company because AI is replacing traditional dev work there [3].
+
+There is also a practical middle ground: several commenters argue you should **still learn the basics and hand-code when you need understanding**, but use AI tools for speed, for repetitive work, or to prototype and then refine [4][5][6][7][8]. One commenter says hand coding is useful for reinforcement of understanding and enjoyment, especially while learning [6]. Another says hand coding is still needed to get past cases where AI gets stuck or fails to match the desired result [7]. Another recommends starting with AI-assisted building and then re-implementing by hand to learn from the blueprint [8].
+
+So, based on these comments, the forum opinion is **generally yes, still worth it — but mainly for learning, understanding, and troubleshooting, not necessarily as the default way to ship everything** [1][4][5][6][7][8].",8,4,,1822,320,0.000000,3276
+Will AI replace junior developers?,terse,"The comments disagree. Some say AI will replace a lot of junior-level work or even entire lower-end teams, especially for basic sites and companies that can rely on a Claude-like subscription, while others say it is not a replacement but an enhancement that mainly speeds up typing and helps developers. Several comments say AI still falls down on complex systems, code quality, critical thinking, and problem solving, so humans — especially experienced developers — will still be needed. One comment specifically says the real replacement is junior AI developers, not junior human developers.",8,0,,1648,110,0.000000,2667
+Will AI replace junior developers?,cot,"## Positions:
+
+1. **AI will not fully replace junior developers; it is more of an aid or force multiplier, and experience still matters most.** [2, 5, 6]
+2. **AI may replace some junior-level work or entry-level tasks, especially routine coding, typing, or simpler jobs, while humans still handle oversight or harder parts.** [1, 5, 7]
+3. **AI is already reducing the value of junior developers and may make companies prefer people who can work without it.** [3, 8]
+4. **Using AI too much can hurt developers’ thinking/problem-solving skills, so it should not replace those abilities.** [4, 2]
+
+## Summary:
+
+The comments show no single consensus. Several people argue that AI is mainly a productivity tool rather than a replacement: it can make developers faster, help them learn, and especially benefit experienced engineers, while humans still need to handle planning, maintenance, complexity, and knowing when the AI is wrong. Others think AI is already taking over some junior-style work, especially routine coding, typing, and simpler web or brochure-site tasks, with people still needed for guidance or exception handling. A more skeptical view is that AI is already lowering the value of junior developers and may increase demand for developers who can work without AI assistance. Another theme is that relying too much on AI could weaken critical thinking and problem-solving, so some commenters say it should be used as a supplement, not a substitute.",8,0,,1682,307,0.000000,3069
+Will AI replace junior developers?,citation,"The comments do not give a single agreed answer, but the overall picture is that several people think AI will **replace some junior-development work or some junior dev jobs**, while others think it will **mainly change the work, not fully replace junior developers**. [2][5][6][7][8]
+
+- **“Yes, at least a lot of junior work/jobs will be replaced”**: One commenter says AI can handle prototypes and, in simpler company contexts, could “replace its entire development team” or make “lower level jobs” vanish, while more complex work stays human-led. [7] Another says AI has “substantially raised the floor” and replaces “the typing part” of development, making people who know how to take over where the machine stops more valuable. [5] A different commenter predicts many AI users will flood the market and that developers who can build without AI will become especially valued, implying AI-heavy junior work may be displaced. [8] One commenter also says HN is full of people who think “developers just got replaced by AI,” though that is more a description of the discussion climate than a direct endorsement. [3]
+
+- **“No, AI is more of an assistant than a replacement”**: Several commenters frame AI as an enhancement rather than a substitute. One says it is “not a replacement it’s an enhancement,” like a better Google, and argues it helps developers perform better rather than replace them. [6] Another says AI should “enhance productivity” but “shouldnt replace critical thinking and problem solving skills” of a good developer. [4] One more says AI can help with code, but once systems get complex, “code quality absolutely matters as a human will need to go through it.” [2] The same commenter [5] also says experienced developers benefit most, which suggests human developers remain necessary even if junior-style tasks are reduced. [5]
+
+So, based on these comments, the forum leans toward **AI replacing parts of junior development and some lower-level jobs**, but not a clean or universal replacement of junior developers as a whole. [5][7][2][6]",8,5,,1673,443,0.000000,3683
+Do people trust AI-generated code in production?,terse,"They mostly do not trust AI-generated code blindly in production. Several comments say it needs human checking, that blind trust is dangerous, and that AI code can pass tests yet still hide structural bugs until production. One comment says many people do ship it to production and review it less carefully because it boosts productivity, and another says AI-generated code is now a large part of how software is built.",8,0,,1413,81,0.000000,1637
+Do people trust AI-generated code in production?,cot,"## Positions:
+1. People trust AI-generated code too much and ship it to production, which can lead to serious bugs. [1]
+2. AI-generated code can look like it works and pass tests, but still hide structural bugs that only show up in production. [2]
+3. AI-generated code is not suitable for production without human checking; humans need to review and understand it. [3]
+4. Blind trust in AI code is dangerous because the model lacks team context, so human context must be supplied. [4]
+5. AI is now widely used in software development, but that does not necessarily mean it is trusted blindly. [6]
+6. AI output often gets treated as lower-effort work, and that lower effort is part of why people may be wary of trusting it fully. [7], [8]
+
+## Summary:
+The comments suggest that many people do **not** trust AI-generated code blindly in production, or at least think they should not. Several commenters say AI code can appear correct, pass tests, and still contain hidden structural bugs, so human review and added context are needed before production use. Others say the problem is that some people **do** trust AI too much because it boosts productivity, leading them to ship code with less careful review. One comment notes that AI-generated code is now common in software teams, implying it is widely used, though not necessarily fully trusted. A related theme is that AI output is often associated with lower effort and less ownership, which makes people cautious about relying on it as-is.",8,7,,1447,316,0.000000,2970
+Do people trust AI-generated code in production?,citation,"People in these comments generally **do not express strong trust in AI-generated code for production**; most say it needs careful human checking or is not suitable to ship blindly. [2][3][4][8]
+
+**What the comments say:**
+- Several commenters say AI code can look fine but still hide serious bugs, so they would not trust it blindly in production. [2][4]
+- One commenter says AI is **“not suitable for generating production grade code without a human checking it”** and that the real bottleneck is human understanding and review. [3]
+- Another says people sometimes **trust AI too much** and directly ship AI-generated code or review it less carefully, implying that this trust is a problem rather than a good practice. [1]
+- One comment says AI-generated code is now widely used in major companies, but it does not say that this means people trust it; it only says it is part of how software is built now in those places. [6]
+
+**Rough split in the comments:**
+- **Against trusting AI-generated code blindly in production:** most of the comments, about 4–5 [1][2][3][4][8]
+- **Suggesting it is already widely used in production environments:** 1 comment, but without explicitly endorsing trust [6]
+
+So, based on these comments, the answer is: **people seem to use AI-generated code in production, but they generally do not trust it blindly and emphasize human review.** [1][2][3][4][6][8]",8,6,,1438,321,0.000000,2843
+Has AI made hiring and interviewing worse?,terse,"Yes and no. Some commenters say AI has made interviewing worse by enabling cheating in interviews and pushing employers toward AI video interviews, code assessments, IQ tests, and personality tests, with one person saying their response rate has dropped and they rarely even talk to a human. Others argue AI is just changing hiring toward fewer, more highly skilled engineers and that companies will use AI to screen candidates or judge on output, not necessarily making hiring worse.",8,0,,1814,90,0.000000,1969
+Has AI made hiring and interviewing worse?,cot,"## Positions:
+
+1. **AI is making interviews worse because candidates can use it to cheat or game the process** — [1, 4]  
+2. **AI is making hiring/interviewing worse by pushing companies toward AI-heavy, less human, more restrictive processes** — [5, 7]  
+3. **AI is not necessarily making hiring worse; it may just change who gets hired, favoring stronger engineers and reducing low-skill or inflated candidates** — [3, 8]  
+4. **AI is overhyped for programming and hiring will eventually swing back toward humans because AI’s gains are limited and need heavy review** — [6]  
+5. **The effect is uncertain, but people should be open about their AI views since companies that disagree may self-select out** — [2]  
+
+## Summary:
+
+The comments do not agree on a single answer, but several people say AI is making hiring and interviewing worse in different ways. One common complaint is that candidates can use AI to cheat in interviews or appear stronger than they are, which can undermine the process ([1], [4]). Another complaint is that employers themselves are making things worse by becoming overly focused on AI usage, using more automated screening, and creating processes that feel less human or more frustrating ([5], [7]).
+
+Others are less negative. One view is that AI is not really making hiring worse so much as changing the market: companies may hire fewer people, but they will want stronger engineers who can use AI well ([3], [8]). A related view is that AI’s actual programming value is limited, so companies will eventually realize the productivity gains are modest and rely more on humans again ([6]).
+
+There is also some uncertainty in the discussion. One commenter says it is hard to know the long-term effect, but suggests being open about anti-AI views because companies that dislike those views may avoid interviewing you, which can save time if you would not want to work there anyway ([2]).",8,6,,1848,408,0.000000,3478
+Has AI made hiring and interviewing worse?,citation,"The comments suggest **yes, for some people AI has made hiring and interviewing worse**, but they do not show a unanimous view. A few comments also argue that AI could improve filtering or that the bigger issue is broader labor-market change rather than AI alone. [1][4][5][7][8]
+
+- **Worse interviewing/hiring:** One commenter says ChatGPT “trivially solved” a standard phone interview problem for new SWE hires, implying AI made that interview filter less effective. [4] Another says their job market response rate has fallen and that they now often face code assessments, IQ tests, personality tests, or AI video interviews, which they “kindly reject.” [7] A different commenter complains employers judge on AI usage rather than output, and says that produces worse results and is “stupid.” [5]
+
+- **AI as a tool, not necessarily worse:** One commenter argues that AI can help candidates and employers, saying people who avoid AI in interviews might have a “better leg up” over those who do use it, suggesting AI is changing interview behavior but not clearly proving the process is worse overall. [1] Another says AI could actually help companies by screening candidates who are comfortable with it, and argues that if a company rejects you for your views on AI, it may save everyone time by preventing a mismatch. [2]
+
+- **Hiring market shift, not just AI:** One commenter says the industry is moving toward hiring fewer, stronger engineers who can use AI well, and that AI doesn’t replace engineering skill. [8] Another says AI does a worse job programming than humans and that companies may eventually reduce AI use and rely more on humans, though they also admit no one knows for sure. [6] One commenter similarly says humans will still be needed and programmers are likely to remain in the loop. [3]
+
+So, based on these comments, the forum leaned toward **AI having made parts of hiring and interviewing more frustrating or less reliable**, but there was also a counterview that AI may simply be changing the process, not universally worsening it. [4][5][7][1][2][6][8]",8,6,,1839,441,0.000000,3879
+Is self-hosting your own services worth the effort?,terse,"The comments mostly say yes: people describe self-hosting as a hobby, useful for privacy and reducing dependence on big platforms, and note that it has improved a lot over the last decade. They also mention practical benefits like running custom services, integrating features, and self-hosting tools like GitHub Actions or repo platforms. One comment is more cautious, saying most people probably won’t make significant changes unless costs rise a lot, so it may not be worth it for everyone.",8,0,,1298,98,0.000000,1649
+Is self-hosting your own services worth the effort?,cot,"## Positions:
+
+1. **Self-hosting is worth it because it enables customization, integration, and building tools that fit personal needs better than existing options.** [2, 5, 7, 8]  
+2. **Self-hosting has become much easier and more capable over time, with strong open-source alternatives now available.** [4, 5]  
+3. **Self-hosting is useful for privacy, independence, and reducing reliance on third-party services.** [7, 8]  
+4. **Self-hosting is not broadly worth the effort for most people; only a smaller set of people or projects will really change or benefit.** [1]  
+5. **Self-hosting can be risky or cumbersome in some setups, especially for CI/CD or internet-facing integrations.** [3, 6]  
+
+## Summary:
+
+The comments suggest mixed views, but several people think self-hosting is worth the effort when you want control and flexibility. They describe it as a hobby and say it lets them build custom apps, dashboards, search tools, and media or library interfaces that better match their needs. A few also say self-hosting helps reduce dependence on big platforms and supports privacy or offline use.
+
+Another cluster of comments says self-hosting has gotten much better and more practical over the last decade, with tools like Forgejo and other open-source platform alternatives making it more appealing than before. On the other hand, one comment argues that most people probably will not make major changes, and that only some open-source projects or large tech organizations will seriously optimize for self-hosting-related costs. A separate pair of comments adds that self-hosting can also bring complexity and security concerns, especially for CI/CD and anything exposed to the internet.
+
+So, based on these comments, self-hosting seems worth it for people who value customization, privacy, and control, but not necessarily worth the effort for everyone.",8,1,,1332,393,0.000000,3173
+Is self-hosting your own services worth the effort?,citation,"The comments mostly say that self-hosting **can be worth it for people who enjoy customization, privacy, or control**, but they also suggest it’s **not worth the effort for everyone**.
+
+- Several commenters are clearly positive about it. One person calls self-hosting their hobby and says they run nearly a dozen services at home, have written their own media app and server dashboard, and keep building more custom tools because it lets them integrate features in ways others cannot [2]. Another says self-hosting has improved dramatically over the last decade and points to modern open-source PaaS tools as making it much more capable than before [4]. Others mention practical self-hosted setups like Forgejo with transferred actions [5], self-hosted GitHub Actions runners [3], and a self-hosted search service meant to reduce dependence on online services and improve privacy [7].
+
+- But there’s also a cautionary side. One commenter says people generally won’t make significant changes unless prices rise much more, implying self-hosting effort won’t be broadly adopted just because of cost pressures [1]. Another points out security and complexity tradeoffs: self-hosting CI/CD can be risky if publicly hosted code can execute on your machine, and if you don’t self-host you may need extra tooling like tunnels to connect services securely [3][6]. Jenkins is also described as popular but complex, with one commenter recommending looking elsewhere [6].
+
+So the thread leans **pro-self-hosting**, but in a “worth it if you value the control and are willing to deal with complexity” sense, not as a universal yes [2][4][5][7]. Roughly **5 comments are favorable or personally enthusiastic** about self-hosting [2][3][4][5][7][8], while **2 comments emphasize limits, complexity, or that most people won’t change much** [1][6].",8,5,,1323,387,0.000000,3480
+What do people think about microservices these days?,terse,"People seem split: some treat microservices as a real architectural choice they have to justify and review, while others see them as part of a lot of corporate cruft and performative engineering. One comment says the real work is often political, not technical, and mentions “writing a specific microservice” as just one thing among many. Another says modern management cares more about time-to-market and developer salaries than hardware or efficiency, so there’s no strong pressure to optimize. No one gives a clear, direct consensus that microservices are universally good or bad.",8,0,,2351,114,0.000000,1741
+What do people think about microservices these days?,cot,"## Positions:
+
+1. Microservices are often just one example of corporate politics/performative work: the real issue is not the architecture itself, but the need to justify it, get it reviewed, and navigate bureaucracy. [1]  
+2. Microservices/modern architecture choices are only driven by quality when there is a real external constraint or metric; without a hard business cost, companies often won’t optimize seriously. [4, 8]  
+3. There’s a broader complaint that “modern tech” is often pushed without enough concrete cost pressure, so teams end up accepting heavier systems and weaker discipline. [4, 8]  
+
+## Summary:
+
+From these comments, people seem to think microservices are less about pure technical merit and more about org dynamics and incentives. One view is that choosing a microservice architecture is often tangled up with corporate bureaucracy and the need to sell the idea internally, rather than just building the best system. Another view is that when there’s a real measurable cost or constraint, people do optimize, but in many companies there isn’t enough direct pressure for that, so heavier architectures like microservices can persist without being strongly challenged. Overall, the comments suggest skepticism that microservices are judged purely on engineering grounds these days.",8,1,,2385,255,0.000000,2765
+What do people think about microservices these days?,citation,"People in these comments don’t really discuss microservices as a standalone topic, but one commenter does mention them in passing. They say that, in bigger organizations, “good performance” is not just about writing “a specific microservice,” but about making a case for the architecture and getting it approved [1]. That suggests microservices are being treated as one architecture choice among others, not as something the commenter is especially praising or criticizing [1].
+
+So, based on these comments, there isn’t a clear forum consensus about microservices “these days” [1]. The only direct mention is neutral and procedural: microservices matter as part of architecture decisions and organizational politics, especially in larger companies [1].",8,1,,2376,144,0.000000,1832
+Which editor or IDE do developers actually prefer?,terse,"The comments disagree. Some developers say they still prefer JetBrains IDEs like PyCharm, IntelliJ, or Visual Studio Professional/Enterprise for indexing, navigation, and handling tricky project issues. Others say they’re moving away from traditional editors and IDEs, using VS Code or even vi only rarely, because AI tools or custom agentic stacks handle most of the work.",8,0,,1706,77,0.000000,1853
+Which editor or IDE do developers actually prefer?,cot,"## Positions:
+- **PyCharm is the main IDE, with AI tools used alongside it** — [2]
+- **A custom agentic IDE / workspace built around worktrees and containerization is preferred** — [3]
+- **Visual Studio Professional/Enterprise is preferred by some, especially for .NET work, despite annoyances** — [5]
+- **JetBrains/IntelliJ-style IDEs are still preferred for indexing and navigation, though used less often now** — [6]
+- **The future should be rethought IDEs with local models built in, rather than current editor-plugin style AI** — [7]
+- **VS Code is used when an editor is needed, but only lightly and with fewer plugins** — [8]
+- **Vim/vi is only a fallback or occasional command-line editor for some, not the main preference** — [8]
+
+## Summary:
+The comments don’t point to one universally preferred editor or IDE. A few people still clearly favor traditional IDEs: one commenter mainly uses **PyCharm** for Python work, another sticks with **Visual Studio Professional/Enterprise** for .NET, and another says they still like **IntelliJ/Idea products** because of indexing and navigation, even though they use them less than before.
+
+At the same time, several comments suggest preferences are shifting away from classic editor-centered workflows. One person built their own **agentic IDE** around worktrees and containers, and another thinks the best path is **rethinking IDEs** so local AI models work inside them more naturally. For lighter use, one commenter says they now open **VS Code** only occasionally, with fewer plugins, while **Vim/vi** is described more as a backup or occasional pinch-hitter than a top choice.
+
+So, based on these comments, developers seem to prefer a mix: some still like established IDEs such as **PyCharm, Visual Studio, and IntelliJ**, but there’s also a strong sentiment toward **custom or reimagined AI-aware development environments** rather than a single classic editor.",8,5,,1740,430,0.000000,3353
+Which editor or IDE do developers actually prefer?,citation,"The comments don’t show a single clear “best” editor or IDE that developers as a whole prefer; they show a mix of habits and a lot of people using tools only when needed. [2][5][6][8]
+
+What people said:
+- IntelliJ/PyCharm-type IDEs were preferred by a few commenters for their indexing and navigation, especially when working in Python or Java-style workflows. [2][6]
+- Visual Studio was preferred by one commenter working in .NET, though they also described it as sometimes frustrating and failure-prone. [5]
+- VS Code was mentioned as the editor used when opening files manually, but one commenter said they had removed many plugins and used it less than before. [8]
+- Vim/vi was not described as the main preference for most people; one commenter said they use it sometimes on the command line, but only for simple edits. [8]
+
+So, based on these comments, the closest thing to a preference is that some developers still like full IDEs such as IntelliJ/PyCharm or Visual Studio for navigation and indexing, but several commenters said they increasingly rely less on manual editing or reach for lighter tools only occasionally. [2][5][6][8]",8,3,,1731,253,0.000000,2506
+"Is Postgres enough, or do you need a separate search engine?",terse,The comments do not address whether Postgres alone is enough or whether a separate search engine is needed.,8,0,,1733,23,0.000000,1630
+"Is Postgres enough, or do you need a separate search engine?",cot,"## Positions:
+- A separate search engine is needed because Postgres/search engines alone aren’t enough for good discovery or relevant results. [2, 3, 5, 6, 8]
+- Search quality has gotten so bad that people are relying on LLMs/ChatGPT to help do search-like work, though it still needs a lot of filtering. [3, 6, 8]
+- The problem may not be the search engine itself so much as targeting/query setup; for search traffic, better keyword targeting and negatives can improve results. [7]
+- The comments about search are really about general search behavior, not Postgres specifically; one person is building a dedicated full-text search system to complement or replace conventional search. [2]
+
+## Summary:
+Most of the comments lean toward the idea that Postgres by itself is not enough for serious search needs, especially for “discovery” use cases or finding relevant results across a large amount of content. Several people say modern search engines are disappointing, and that they increasingly use ChatGPT/LLMs to help sift through bad results, even though that still requires rejecting a lot of noise. One commenter is explicitly building a dedicated full-text search service because the goal is to reduce dependence on search engines and to support recall-style search, while noting it still falls short for discovery.
+
+A smaller, different view is that the issue may be less about needing a whole separate search engine and more about how search is configured and targeted. In that comment, better keyword targeting, exact match, and negative keywords are presented as ways to improve the quality of search traffic.",8,2,,1767,329,0.000000,3063
+"Is Postgres enough, or do you need a separate search engine?",citation,"The comments mostly do **not directly answer** whether Postgres is enough or whether you need a separate search engine [1][2][3][4][5][6][7][8].
+
+What they **do** say is that many people are dissatisfied with general-purpose search engines and find results noisy or poor, sometimes preferring LLMs as a way to sift through bad results [3][5][6][8]. One commenter is even building a dedicated self-hosted search service, saying it works for “recall” searches but “falls short” for “discovery” searches [2]. Another commenter mentions wanting to build a search engine from scratch, but not in the context of Postgres vs. a separate search system [4].
+
+So, based only on these comments, there isn’t a real discussion of Postgres as a search backend. The thread leans toward “search is hard and often needs something better than current tools,” but it does **not** establish whether Postgres alone is enough or whether a separate search engine is needed [2][3][5][6][8].",8,7,,1758,226,0.000000,2352
