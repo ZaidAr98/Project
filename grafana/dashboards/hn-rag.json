@@ -1,0 +1,181 @@
+{
+  "uid": "hn-rag",
+  "title": "What does HN think - RAG monitoring",
+  "tags": ["hn", "rag"],
+  "timezone": "browser",
+  "schemaVersion": 39,
+  "version": 1,
+  "refresh": "30s",
+  "time": { "from": "now-7d", "to": "now" },
+  "panels": [
+    {
+      "id": 1,
+      "type": "stat",
+      "title": "Questions asked",
+      "datasource": { "type": "postgres", "uid": "hn_postgres" },
+      "gridPos": { "h": 4, "w": 8, "x": 0, "y": 0 },
+      "fieldConfig": {
+        "defaults": { "unit": "short", "color": { "mode": "fixed", "fixedColor": "text" } },
+        "overrides": []
+      },
+      "options": {
+        "reduceOptions": { "calcs": ["lastNotNull"], "fields": "", "values": false },
+        "textMode": "value"
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "hn_postgres" },
+          "editorMode": "code",
+          "rawQuery": true,
+          "format": "table",
+          "rawSql": "SELECT count(*) AS \"questions\" FROM conversations WHERE $__timeFilter(created_at)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "stat",
+      "title": "Total spend",
+      "datasource": { "type": "postgres", "uid": "hn_postgres" },
+      "gridPos": { "h": 4, "w": 8, "x": 8, "y": 0 },
+      "fieldConfig": {
+        "defaults": { "unit": "currencyUSD", "decimals": 4, "color": { "mode": "fixed", "fixedColor": "text" } },
+        "overrides": []
+      },
+      "options": {
+        "reduceOptions": { "calcs": ["lastNotNull"], "fields": "", "values": false },
+        "textMode": "value"
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "hn_postgres" },
+          "editorMode": "code",
+          "rawQuery": true,
+          "format": "table",
+          "rawSql": "SELECT coalesce(sum(cost_usd), 0) AS \"usd\" FROM conversations WHERE $__timeFilter(created_at)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "stat",
+      "title": "Answer latency",
+      "datasource": { "type": "postgres", "uid": "hn_postgres" },
+      "gridPos": { "h": 4, "w": 8, "x": 16, "y": 0 },
+      "fieldConfig": {
+        "defaults": { "unit": "ms", "decimals": 0, "color": { "mode": "fixed", "fixedColor": "text" } },
+        "overrides": []
+      },
+      "options": {
+        "reduceOptions": { "calcs": ["lastNotNull"], "fields": "", "values": false },
+        "textMode": "value_and_name"
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "hn_postgres" },
+          "editorMode": "code",
+          "rawQuery": true,
+          "format": "table",
+          "rawSql": "SELECT percentile_cont(0.5) WITHIN GROUP (ORDER BY latency_ms) AS \"p50\", percentile_cont(0.95) WITHIN GROUP (ORDER BY latency_ms) AS \"p95\" FROM conversations WHERE $__timeFilter(created_at)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "timeseries",
+      "title": "Questions over time",
+      "datasource": { "type": "postgres", "uid": "hn_postgres" },
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 4 },
+      "fieldConfig": {
+        "defaults": {
+          "unit": "short",
+          "custom": { "drawStyle": "bars", "fillOpacity": 70, "lineWidth": 1, "barAlignment": 0 }
+        },
+        "overrides": []
+      },
+      "options": { "legend": { "showLegend": false }, "tooltip": { "mode": "single" } },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "hn_postgres" },
+          "editorMode": "code",
+          "rawQuery": true,
+          "format": "time_series",
+          "rawSql": "SELECT $__timeGroupAlias(created_at, $__interval), count(*) AS \"questions\" FROM conversations WHERE $__timeFilter(created_at) GROUP BY 1 ORDER BY 1"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "piechart",
+      "title": "User feedback",
+      "datasource": { "type": "postgres", "uid": "hn_postgres" },
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 4 },
+      "fieldConfig": { "defaults": { "unit": "short" }, "overrides": [] },
+      "options": {
+        "reduceOptions": { "calcs": ["lastNotNull"], "fields": "", "values": false },
+        "pieType": "donut",
+        "legend": { "displayMode": "list", "placement": "right", "showLegend": true },
+        "displayLabels": ["value"]
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "hn_postgres" },
+          "editorMode": "code",
+          "rawQuery": true,
+          "format": "table",
+          "rawSql": "SELECT CASE vote WHEN 1 THEN 'Helpful' ELSE 'Not helpful' END AS \"metric\", count(*) AS \"value\" FROM feedback WHERE $__timeFilter(created_at) GROUP BY 1"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "timeseries",
+      "title": "Cumulative cost",
+      "datasource": { "type": "postgres", "uid": "hn_postgres" },
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 12 },
+      "fieldConfig": {
+        "defaults": {
+          "unit": "currencyUSD",
+          "decimals": 4,
+          "custom": { "drawStyle": "line", "lineWidth": 2, "fillOpacity": 20, "showPoints": "always", "spanNulls": true }
+        },
+        "overrides": []
+      },
+      "options": { "legend": { "showLegend": false }, "tooltip": { "mode": "single" } },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "hn_postgres" },
+          "editorMode": "code",
+          "rawQuery": true,
+          "format": "time_series",
+          "rawSql": "SELECT created_at AS \"time\", sum(cost_usd) OVER (ORDER BY created_at) AS \"cumulative\" FROM conversations WHERE $__timeFilter(created_at) ORDER BY created_at"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "table",
+      "title": "Most-cited HN threads",
+      "datasource": { "type": "postgres", "uid": "hn_postgres" },
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 12 },
+      "fieldConfig": { "defaults": { "custom": { "align": "auto" } }, "overrides": [] },
+      "options": { "showHeader": true },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "hn_postgres" },
+          "editorMode": "code",
+          "rawQuery": true,
+          "format": "table",
+          "rawSql": "SELECT ch.story_title AS \"thread\", count(*) AS \"citations\" FROM conversations c CROSS JOIN LATERAL unnest(c.cited_story_ids) AS sid JOIN LATERAL (SELECT story_title FROM chunks WHERE story_id = sid LIMIT 1) ch ON true WHERE $__timeFilter(c.created_at) GROUP BY 1 ORDER BY 2 DESC LIMIT 10"
+        }
+      ]
+    }
+  ]
+}
